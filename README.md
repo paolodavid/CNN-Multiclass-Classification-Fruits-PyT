@@ -1,4 +1,4 @@
-# Convolutional Neural Network(CNN)🧠 for a multi-class classification to recognize between different fruits 🍌 🍎 🍉 🍓  categories
+# Convolutional Neural Network(CNN)🧠 for a multi-class classification to recognize between different fruits 🍎🍌🥭🍊🍓 categories
 
 # Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vDvaTOiI82Q/0.jpg)](https://www.youtube.com/watch?v=vDvaTOiI82Q)
