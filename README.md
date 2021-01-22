@@ -1,1 +1,15 @@
-# pytorch-flask-deploy-webapp
+# Convolutional Neural Network(CNN)🧠 for a multi-class classification to recognize between different fruits 🍌 🍎 🍉 🍓  categories
+
+# Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vDvaTOiI82Q/0.jpg)](https://www.youtube.com/watch?v=vDvaTOiI82Q)
+
+# Features
+- The CNN is built with the framework: PyTorch 1.7.0+cu101
+- Model: resNet18
+- Epochs training: 25
+- Training/Validation accuracy: 85-90%
+- 5 Classes: apple, banane, mango, orange, strawberry
+
+# Credits
+- https://bit.ly/2K4NKj3
+- https://bit.ly/3fSJUVv
