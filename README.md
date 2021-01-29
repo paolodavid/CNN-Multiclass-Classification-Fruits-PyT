@@ -1,7 +1,7 @@
 # Convolutional Neural Network(CNN)🧠 for a multi-class classification to recognize between different fruits 🍎🍌🥭🍊🍓 categories
 
 # Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vDvaTOiI82Q/0.jpg)](https://www.youtube.com/watch?v=vDvaTOiI82Q)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C0H_cwjKl_Y/0.jpg)](https://www.youtube.com/watch?v=C0H_cwjKl_Y)
 
 # Features
 - The CNN is built with the framework: PyTorch 1.7.0+cu101
