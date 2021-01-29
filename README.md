@@ -11,5 +11,5 @@
 - 5 Classes: apple, banane, mango, orange, strawberry
 
 # Credits
-- https://bit.ly/2K4NKj3
+- https://bit.ly/3r5PNCW
 - https://bit.ly/3fSJUVv
